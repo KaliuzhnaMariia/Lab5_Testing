@@ -9,3 +9,6 @@ DELETE By Id Metod:
 ![Знімок екрана 2025-04-19 015352](https://github.com/user-attachments/assets/798d30d8-4e50-4655-821d-6b1e404699a2)
 GET All Method (After deleting):
 ![Знімок екрана 2025-04-19 015411](https://github.com/user-attachments/assets/89d77dc1-d20e-43cf-9460-0914118e7503)
+Testing results (20 tests - SongArchitectureTests.java)
+![Знімок екрана 2025-04-19 024252](https://github.com/user-attachments/assets/9aa6d2bf-db5b-4948-86f3-1f36d1bb737f)
+![Знімок екрана 2025-04-19 024327](https://github.com/user-attachments/assets/3d289a6f-bcaf-42e2-9c6e-9eb3fe1aa33a)
