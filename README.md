@@ -12,3 +12,5 @@ GET All Method (After deleting):
 Testing results (20 tests - SongArchitectureTests.java)
 ![Знімок екрана 2025-04-19 024252](https://github.com/user-attachments/assets/9aa6d2bf-db5b-4948-86f3-1f36d1bb737f)
 ![Знімок екрана 2025-04-19 024327](https://github.com/user-attachments/assets/3d289a6f-bcaf-42e2-9c6e-9eb3fe1aa33a)
+Testing results (10 tests - SongRepositoryTests.java)
+![Знімок екрана 2025-04-24 235221](https://github.com/user-attachments/assets/98e94f1e-b795-4b79-bb8e-61d8efc51e2f)
