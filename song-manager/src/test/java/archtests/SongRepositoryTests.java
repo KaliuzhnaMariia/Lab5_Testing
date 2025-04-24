@@ -100,7 +100,7 @@ public class SongRepositoryTests {
         List<Song> songsByArtist = underTest.findAll().stream()
                 .filter(s -> s.getArtist().equals("Queen"))
                 .collect(Collectors.toList());
-        assertThat(songsByArtist).hasSize(2); // перевірка, що є кілька пісень від Queen
+        assertThat(songsByArtist).hasSize(2);
     }
 
     @Test
