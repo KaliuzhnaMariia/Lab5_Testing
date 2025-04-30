@@ -193,7 +193,6 @@ class SongServiceTests {
 
         Song updated = new Song("X", "Y", "Z", 2020);
 
-        // simulate returning the same object (with same id) after save
         Song saved = new Song("X", "Y", "Z", 2020);
         saved.setId(7L);
         when(songRepository.save(any(Song.class))).thenReturn(saved);
@@ -229,7 +228,6 @@ class SongServiceTests {
         when(songRepository.findById(10L)).thenReturn(Optional.of(existing));
 
         Song update = new Song("Title", "Artist", "Album", 1995);
-        // return same object after saving
         Song saved = new Song("Title", "Artist", "Album", 1995);
         saved.setId(10L);
         when(songRepository.save(any(Song.class))).thenReturn(saved);
