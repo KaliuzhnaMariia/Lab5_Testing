@@ -36,6 +36,9 @@ public class SongService {
     }
 
     public void deleteSong(Long id) {
+        if (id == null) {
+            throw new NullPointerException("ID cannot be null");
+        }
         repository.deleteById(id);
     }
 }
