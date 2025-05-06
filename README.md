@@ -16,3 +16,6 @@ Testing results (10 tests - SongRepositoryTests.java)
 ![Знімок екрана 2025-04-24 235221](https://github.com/user-attachments/assets/98e94f1e-b795-4b79-bb8e-61d8efc51e2f)
 Testing results (20 tests - SongServiceTests.java)
 ![Знімок екрана 2025-04-30 174129](https://github.com/user-attachments/assets/8aa6a175-fa20-49ce-a63d-25028b520c74)
+Testing results (10 tests - SongServiceMockTests.java)
+![Знімок екрана 2025-05-06 163623](https://github.com/user-attachments/assets/1126d9e0-f848-4ba9-9002-5c72e40a4db8)
+
